@@ -28,7 +28,7 @@ $('#inputEmail').val("");
 },
 error: function (jqXHR, textStatus, errorThrown)
 {
-$('#statError').text("Technical error!. Email us using info@hainnovate.com");
+$('#statError').text("Technical error!. Email us using hainnovate121@gmail.com");
 $('#statSuccess').hide();
 $('#statError').show();
 
